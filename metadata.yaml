@@ -1,5 +1,8 @@
 _repo: The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-02_12166
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dryden, John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12166#The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-02
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
